@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="APIServices\" />
+    <Folder Include="Email\" />
+    <Folder Include="Enum\" />
+    <Folder Include="Factory\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="Utils\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
